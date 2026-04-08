@@ -11,7 +11,9 @@
 
 Этот репозиторий содержит частичный релиз CAD-файлов для **IO by Red Square Custom 68**, разработанной командой Red Square. Файлы предоставляются исключительно в обменном формате (STEP / DXF) для ознакомления сообществом, личной модификации и образовательных целей.
 
-![Custom_68_Black_1.png](Custom_68_Black_1.png)
+
+<img width="3000" height="1688" alt="Custom_68_Black_1" src="https://github.com/user-attachments/assets/32105ab1-1f30-4f72-bf82-7179d0fedb3c" />
+
 
 Включённая геометрия:
 - Верхняя и нижняя части корпуса (внешние поверхности)
@@ -108,8 +110,9 @@
 
 65% / 68 физических механических переключателя. 
 
+<img width="1068" height="361" alt="Снимок экрана 2026-04-08 100602" src="https://github.com/user-attachments/assets/2b6805f3-d4a0-4ab5-af8d-b0e51a4c23d8" />
 
-![4200ea28d3a8cbd28eb2df1d649fe46f.png](./4200ea28d3a8cbd28eb2df1d649fe46f.png)
+
 [Открыть в Keyboard Layout Editor →](https://www.keyboard-layout-editor.com/#/gists/ded64a11ebf7a931e36b9473500b0547)
 
 
